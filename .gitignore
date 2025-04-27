@@ -1,0 +1,65 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+dist/
+eggs/
+lib/*.egg
+lib64/*.egg
+parts/
+sdist/
+var/
+wheels/
+pip-log.txt
+pip-delete-this.txt
+*.egg-info/
+.installed.cfg
+*.whl
+venv/
+env/
+
+# Installer logs
+*.install.log
+install.log.*
+*.pth
+
+# Unit test / coverage reports
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+.coverage
+.cache
+htmlcov/
+.pytest_cache/
+
+# Environments
+.env
+.venv
+env.bak/
+venv.bak/
+
+# Jupyter Notebook related files
+.ipynb_checkpoints/
+
+# MyPy cache
+.mypy_cache/
+
+# Visual Studio Code
+.vscode/
+
+# OS or Editor related files (adjust as needed)
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Database related (if you are not committing the actual data)
+mysql_data/  # Assuming this contains your local database data
+
+# Other files you might want to ignore
+*.log
